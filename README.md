@@ -1,2 +1,4 @@
 # Optimum-Mindstorm
-Lap Simulation package for CUFSAE, originally developed by the one and only Jonathan Vogel
+Lap Simulation package for CUFSAE
+
+Originally developed by Jonathan Vogel, who you can reach at jovogel@g.clemson.edu
